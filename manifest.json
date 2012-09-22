@@ -1,0 +1,16 @@
+{
+	"name": "K13",
+	"version": "1.0",
+	"content_scripts": [{
+		"matches": ["https://kmail.k12.com/*"],
+		"js": ["libs/jquery.js","libs/jquery.fireEvent.js","kmail_utilities.js"]
+	}],
+	"manifest_version": 2,
+	"description": "Unofficial utilities which make teaching with K-12's LMS a little more bearable.",
+	"browser_action": {
+		"default_icon": "icon.png"
+	},
+	"permissions": [
+		"https://kmail.k12.com/cgi-bin/WebObjects/KMail.woa/wa/newKMail*"
+	]
+}
