@@ -1,4 +1,4 @@
-Chrome extension which make teaching with K-12's mediocre LMS a little more bearable.
+Chrome extension which makes teaching with K-12's mediocre LMS a little more bearable.
 
 ##K-Mail features
 
