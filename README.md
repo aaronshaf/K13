@@ -8,6 +8,10 @@ Chrome extension which makes teaching with K-12's mediocre LMS a little more bea
 * You can tab between first and last name.
 * You can quickly insert students by name.
 
-License: Creative Commons BY-SA.
+## License
+
+Creative Commons BY-SA.
+
+## Credits
 
 Uses Francois-Guillaume Ribreau's jQuery-fireEvent.
