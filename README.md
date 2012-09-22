@@ -1,6 +1,8 @@
 Chrome extension which makes teaching with K-12's mediocre LMS a little more bearable.
 
-##K-Mail features
+## Features
+
+### Improvements to K-Mail
 
 * Pressing enter on the first or last name fields triggers search for student.
 * You can tab between first and last name.
