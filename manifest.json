@@ -8,7 +8,7 @@
 	"manifest_version": 2,
 	"description": "Unofficial utilities which make teaching with K-12's LMS a little more bearable.",
 	"browser_action": {
-		"default_icon": "icon.png"
+		"default_icon": "img/icon.png"
 	},
 	"permissions": [
 		"https://kmail.k12.com/cgi-bin/WebObjects/KMail.woa/wa/newKMail*"
